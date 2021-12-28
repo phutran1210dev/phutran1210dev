@@ -19,7 +19,7 @@ Hello, I'm Ares , I want to become web developer 🖤🖤🖤
 
 | Facebook :black_heart::black_heart: |Instagram :heart::heart: | Gmail :love_letter:|
 | :------------------------------------: | :------------------------------------: | :-----------------------: |
-| https://www.facebook.com/phutran.1210/ | https://www.instagram.com/phutran1210/ | phutran1210.dev@gmail.com |
+| https://www.facebook.com/phutran.1210/ | https://www.instagram.com/phutr1210/   |  phutran1210.dev@gmail.com |
 
 My Github :heart:	:heart:	:heart: |
 ------------ | 
