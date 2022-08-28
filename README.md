@@ -24,3 +24,10 @@ Hello, I'm Ares , I want to become web developer 🖤🖤🖤
 My Github :heart:	:heart:	:heart: |
 ------------ | 
 ![phutran1210dev's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210dev&show_icons=true&theme=radical)
+
+### 📚 Github Status
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phutran1210dev&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=phutran1210dev&show_icons=true&theme=tokyonight" height="165">
+</p>
