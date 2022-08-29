@@ -1,7 +1,3 @@
-<h1 align="center">
-   Ares :black_heart::black_heart::black_heart:
-</h1>
-
 # About me
 
 ```javascript
