@@ -22,6 +22,5 @@ Hello, I'm Ares , I want to become web developer 🖤🖤🖤
 | https://www.facebook.com/phutran.1210/ | https://www.instagram.com/phutr1210/   |  phutran1210.dev@gmail.com |
 
 ### 📚 Github Status
------------- | 
 ![phutran1210dev's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210dev&show_icons=true&theme=radical)
 ![phutran1210dev's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210dev&show_icons=true&theme=tokyonight)
