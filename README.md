@@ -40,9 +40,3 @@ Hello, I'm Ares , I want to become web developer 🖤🖤🖤
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phutran1210dev&layout=compact&theme=tokyonight&langs_count=6" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=phutran1210dev&show_icons=true&theme=tokyonight" height="200">
 </p>
-
-
-### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phutran1210dev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranphu1210/)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/phutran1210dev)
