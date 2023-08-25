@@ -1,7 +1,7 @@
 # About me
 
 ```javascript
-Hello, I'm Ares , I want to become web developer 🖤🖤🖤
+Hi there! I'm a software engineer and front-end developer. I blend my coding skills with a creative touch to craft engaging and user-friendly experiences. With a knack for turning designs into reality, I'm all about building seamless interfaces that users love. Let's bring ideas to life through technology!ò🖤🖤🖤
 ```
 
 <p align="center">
