@@ -38,7 +38,7 @@ Hi there! I'm a software engineer and front-end developer. I blend my coding ski
 ## My Hobbies
 | Reading :books: | Traveling :world_map: :desert_island: | Eating :plate_with_cutlery::chopsticks:|
 | --------------- | :-----------------------------------: | :------------------------------------: |
-| The more books I read, the more I learn about life and everything. | Travel to new lands, see new people, and know about new cultures | Music is the most essential thing make me relax | :honey_pot: :crab: 	:lobster: :green_salad: :hotdog: :hamburger:	:meat_on_bone: :poultry_leg: |
+| The more books I read, the more I learn about life and everything. | Travel to new lands, see new people, and know about new cultures | 🍔🍺🍖🍗🌭🍟🍹🌽🍴🔥 | :honey_pot: :crab: 	:lobster: :green_salad: :hotdog: :hamburger:	:meat_on_bone: :poultry_leg: |
 
 
 ## 📚 Github Status
