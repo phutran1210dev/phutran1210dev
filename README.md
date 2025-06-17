@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=phutran1210dev&style=flat-square" />
   <img src="https://img.shields.io/github/stars/phutran1210dev?style=flat-square" />
   <img src="https://img.shields.io/github/followers/phutran1210dev?style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=💻&message=Love%20Coding&color=red&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%92%BB&message=Love%20Coding&color=red&style=flat-square" />
 </p>
 
 ---
