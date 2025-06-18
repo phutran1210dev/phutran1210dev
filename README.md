@@ -20,6 +20,7 @@
 - 🧰 Skilled with **CI/CD, Docker**, and frontend tooling like **Vite**, **Webpack**, **Storybook**.
 - 🌐 Integrated with **Firebase, REST APIs, Socket.IO**, SEO and accessibility best practices.
 - 💡 Experienced in Agile workflows, code review, and cross-functional collaboration.
+- 👨‍💻 Freelancing since 2021: Delivered multiple web projects for startups & international clients.
 - 🏢 Previously at:
   - SALTO Vietnam (03/2023 – 06/2025)
   - BAP IT (03/2021 – 12/2023)
