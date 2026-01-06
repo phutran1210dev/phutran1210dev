@@ -57,6 +57,20 @@
 - 💡 Agile workflows, code review, cross-functional collaboration
 - 👨‍💻 Freelancing since 2021: delivered projects for startups & international clients
 
+## 🚀 Open to Opportunities
+
+- 💼 Frontend / Full-stack (React, Next.js, React Native)
+- 🌍 Remote / Hybrid / International teams
+- 🧩 Product-driven & high-impact systems
+📫 Feel free to reach out via **LinkedIn** or **Email**.
+
+## 🧩 Code Philosophy
+
+- Write code for **humans first**, machines second
+- Prefer **clarity over cleverness**
+- Optimize only when it matters
+- UI is not done until it feels right
+
 **Previously at**
 - SALTO Vietnam (03/2023 – 06/2025)
 - BAP IT (03/2021 – 12/2023)
@@ -102,8 +116,8 @@
 
 </div>
 
-> _Designs focus on **practical UI/UX**, **developer-friendly layouts**, and **handoff-ready components**._  
-> _Links will be updated gradually as public designs are prepared._
+> _Designs focus on **real-world products**, **developer-friendly handoff**, and **scalable UI systems**._  
+> _Each file reflects how I think as both a **designer & engineer**._
 > 
 > | Dashboard UI | Admin dashboard for SaaS product | [View on Figma](https://www.figma.com/file/xxxxx) |
 
