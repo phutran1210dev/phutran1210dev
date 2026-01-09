@@ -57,12 +57,21 @@
 - 💡 Agile workflows, code review, cross-functional collaboration
 - 👨‍💻 Freelancing since 2021: delivered projects for startups & international clients
 
-## 🚀 Open to Opportunities
+## 🚀 Open to Selective Opportunities
 
 - 💼 Frontend / Full-stack (React, Next.js, React Native)
 - 🌍 Remote / Hybrid / International teams
 - 🧩 Product-driven & high-impact systems
 📫 Feel free to reach out via **LinkedIn** or **Email**.
+
+**Currently at**
+- FPT Software (07/2025 – Present)
+  - Building scalable frontend solutions for enterprise & global clients
+
+**Previously at**
+- SALTO Vietnam (03/2023 – 06/2025)
+- BAP IT (03/2021 – 12/2023)
+- Cybersoft Academy (2020 – 2021)
 
 ## 🧩 Code Philosophy
 
@@ -71,12 +80,82 @@
 - Optimize only when it matters
 - UI is not done until it feels right
 
-**Previously at**
-- SALTO Vietnam (03/2023 – 06/2025)
-- BAP IT (03/2021 – 12/2023)
-- Cybersoft Academy (2020 – 2021)
+---
+
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/5956/5956494.png" width="45px" style="margin-right: 10px;">
+  </picture>
+   Professional Projects & Roles
+</h2>
+
+### **Sokucom – Omnichannel Communication Platform**
+**Frontend Developer | SALTO Vietnam (03/2023 – 06/2025)**  
+ https://main.sokucom.vn - https://sokucom.vn
+
+- Developed core CMS modules for **SMS, Email, Zalo**, and **Kanban board**
+- Built reusable & scalable UI components for:
+  - Task creation, scheduling & automation
+  - Template management (SMS / Email / Zalo)
+- Implemented **realtime features** using **Firebase & Socket.IO**
+- Built and optimized **SEO landing site** with **Next.js**
+  - Lighthouse score **>90**
+  - Semantic HTML, structured metadata, mobile-first performance
+- Ensured **accessibility (a11y)**, cross-browser compatibility & responsive design
+- Participated in **code reviews**, sprint planning, and technical documentation
+- **Tech stack:** React, Next.js, TypeScript, TailwindCSS, Context API, Redux Toolkit
 
 ---
+
+### **Sharegram – Social Content & Livestream Platform**
+**Frontend Developer | BAP IT (03/2022 – 10/2023)**
+
+- Built social platform with:
+  - **Live streaming**
+  - **Realtime chat**
+  - **Donation & digital product purchase**
+- Integrated **Tiger Payment Gateway**
+- Designed & implemented **Admin CMS** for content and product management
+- Built file upload & media handling flow using **AWS S3**
+- Improved authentication flows and application performance
+- **Tech stack:** React.js, TypeScript, Firebase, Redux, Socket.IO, AWS
+
+---
+
+### **Insight Edge – Deal Matching System (Web & Mobile)**
+**Frontend Developer | BAP IT (2022 – 2023)**
+
+- Developed deal-matching system with product posting & CRUD features
+- Built **Web (React.js)** and **Mobile (React Native)** applications
+- Integrated **Firebase Authentication & Realtime Chat**
+- Applied **MobX-State-Tree** for scalable state management
+- Focused on UX consistency and performance across platforms
+- **Tech stack:** React.js, React Native, Firebase, MobX-State-Tree
+
+---
+
+### **Libes – NFT Betting Platform**
+**Frontend Developer | BAP IT (2022)**
+
+- Built frontend for NFT-based betting system
+- Integrated **deposit / withdraw** and wallet interaction flows
+- Developed realtime game dashboard
+- Collaborated closely with backend for secure transaction handling
+- **Tech stack:** React.js, Web3.js, Firebase
+
+---
+
+### **CRM Cyberlearn**
+**Frontend Developer | Cybersoft Academy (2020 – 2021)**
+
+- Developed CRM system for:
+  - Student profile management
+  - Revenue tracking
+  - Learning content management
+- Built UI components using **React.js & Ant Design**
+- Integrated backend APIs for full CRUD workflows
+- Foundation project for professional frontend development
+
 
 ## 🛠️ Tool & Language
 
@@ -92,13 +171,9 @@
 
 | Project | Description |
 | ------ | ----------- |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
-| _(Coming soon)_ | (Coming soon) |
+| Admin CMS Starter | Scalable admin layout & patterns |
+| Realtime Demo App | Socket.IO & event-driven UI |
+| UI Component Lab | Reusable React component system |
 
 </div>
 
