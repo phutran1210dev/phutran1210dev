@@ -15,7 +15,7 @@
     src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
   <h1>Hi, I'm Phu Tran 👋</h1>
-  <h3>Software Engineer • Front-end Developer</h3>
+  <h3>Software Engineer - Front-end Developer</h3>
 
   <p>
     <i>Blending design & code to build smooth, delightful digital experiences. 🖤</i>
@@ -48,7 +48,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/3220/3220417.png" width="45px" style="margin-right: 10px;">
+  </picture>
+   About Me
+</h2>
 
 - 💼 5+ years building **scalable web & mobile apps** with **React / Next.js / React Native / TypeScript**
 - 🎯 Focused on **modern UI/UX**, **performance optimization**, **realtime systems**
@@ -91,73 +97,102 @@
 
 ### **Sokucom – Omnichannel Communication Platform**
 **Frontend Developer | SALTO Vietnam (03/2023 – 06/2025)**  
- https://main.sokucom.vn - https://sokucom.vn
 
-- Developed core CMS modules for **SMS, Email, Zalo**, and **Kanban board**
-- Built reusable & scalable UI components for:
-  - Task creation, scheduling & automation
-  - Template management (SMS / Email / Zalo)
-- Implemented **realtime features** using **Firebase & Socket.IO**
-- Built and optimized **SEO landing site** with **Next.js**
+- Contributed to **Sokucom**, an enterprise-grade **omnichannel communication platform** supporting SMS, Email, Zalo, and internal workflow automation
+- Developed and maintained core **CMS modules**, including:
+  - Message & template management (SMS / Email / Zalo)
+  - Task creation, scheduling, and automation workflows
+  - Kanban board for real-time task and workflow tracking
+- Built **reusable, scalable UI components** to support complex business logic and multi-channel operations
+- Implemented **real-time features** using **Firebase & Socket.IO** to ensure instant updates and system responsiveness
+- Designed and optimized the **SEO landing site** with **Next.js**, achieving:
   - Lighthouse score **>90**
-  - Semantic HTML, structured metadata, mobile-first performance
-- Ensured **accessibility (a11y)**, cross-browser compatibility & responsive design
-- Participated in **code reviews**, sprint planning, and technical documentation
+  - Semantic HTML and structured metadata
+  - Mobile-first performance optimization
+- Ensured **accessibility (a11y)** compliance, cross-browser compatibility, and responsive design standards
+- Actively participated in **code reviews**, sprint planning, and technical documentation within Agile teams
+- Collaborated closely with backend, product, and QA teams to deliver reliable, enterprise-ready features
 - **Tech stack:** React, Next.js, TypeScript, TailwindCSS, Context API, Redux Toolkit
 
 ---
 
-### **Sharegram – Social Content & Livestream Platform**
+### **Sharegram/Fansite – Social Content & Livestream Platform**
 **Frontend Developer | BAP IT (03/2022 – 10/2023)**
 
-- Built social platform with:
-  - **Live streaming**
-  - **Realtime chat**
-  - **Donation & digital product purchase**
-- Integrated **Tiger Payment Gateway**
-- Designed & implemented **Admin CMS** for content and product management
-- Built file upload & media handling flow using **AWS S3**
-- Improved authentication flows and application performance
+- Built a **social content & livestream platform** structured into **three separate frontend applications**, each serving a distinct user group:
+  - **Client App**: end-user platform for content consumption, live streaming, realtime chat, and digital purchases
+  - **Creator CMS**: dashboard for creators to manage livestreams, digital content, products, and audience interactions
+  - **Admin CMS**: internal system for content moderation, creator management, and platform configuration
+- Developed core features across applications, including:
+  - **Live streaming** for creators and live sessions
+  - **Realtime chat** for audience interaction
+  - **Donation & digital content purchase** flows to support creators
+- Integrated secure payment processing via **Tiger Payment Gateway**
+- Designed & implemented scalable **Admin CMS** workflows for content, product, and user management
+- Built robust **file upload & media handling** pipelines using **AWS S3**
+- Improved **authentication flows**, application performance, and overall UX responsiveness across all applications
+- Collaborated closely with backend teams to align APIs, realtime behavior, and access control between systems
+- **Applied role-based access control (RBAC) and shared component architecture across multiple frontend codebases**
 - **Tech stack:** React.js, TypeScript, Firebase, Redux, Socket.IO, AWS
 
 ---
 
-### **Insight Edge – Deal Matching System (Web & Mobile)**
+### **Insight Edge – Digital Transformation & Deal Matching System**
 **Frontend Developer | BAP IT (2022 – 2023)**
 
-- Developed deal-matching system with product posting & CRUD features
-- Built **Web (React.js)** and **Mobile (React Native)** applications
-- Integrated **Firebase Authentication & Realtime Chat**
-- Applied **MobX-State-Tree** for scalable state management
-- Focused on UX consistency and performance across platforms
+- Contributed to frontend development of an **enterprise-grade deal matching system** for Insight Edge, a DX technology company spun out from the Sumitomo Corporation Group
+- Designed and implemented core features for both **Web (React.js)** and **Mobile (React Native)** applications:
+  - Unified product posting and deal matching workflows
+  - Dynamic CRUD interfaces for listing management and user interactions
+- Integrated **Firebase Authentication** and **Realtime Chat** to support secure access and live communication between matched parties
+- Applied **MobX-State-Tree** for scalable and maintainable state management across complex UI flows
+- Focused on consistent **UX performance** and responsive behavior across platforms
+- Ensured seamless collaboration with backend engineers to align APIs, realtime logic, and client-server data synchronization
 - **Tech stack:** React.js, React Native, Firebase, MobX-State-Tree
 
 ---
 
-### **Libes – NFT Betting Platform**
+### **Microad Web – AdTech Video Advertising Platform**
+**Frontend Developer | BAP IT (08/2022 – 01/2023)**
+
+- Contributed to **Microad Web**, a web-based advertising platform built for creating, managing, and tracking **video ad campaigns** for advertisers and media partners
+- Developed frontend features enabling:
+  - **Ad creation** workflows and UI for configuring campaign assets
+  - **Audience targeting** and segment selection interfaces
+  - **Ad scheduling** and live campaign control panels
+  - **Performance analytics** dashboards to visualize impressions and engagement metrics
+- Built responsive, reusable UI components aligned to modern **AdTech requirements**
+- Integrated key platform features such as:
+  - **Task scheduling** and **email notification** flows
+  - Scalable **data storage and retrieval** via backend services
+- Enhanced code quality using tools and best practices, ensuring maintainability in a fast-paced development environment
+- Collaborated with backend and DevOps teams for feature integration, deployment, and performance optimization
+- **Tech stack:** React.js, JavaScript (ES6+), Redux (Thunk), HTML5, CSS/SASS, Bootstrap, Ant Design, REST APIs, Nginx, PHP-FPM, MySQL, Postfix, Composer, Cron, Node/NPM
+
+---
+
+### **Libes – Blockchain NFT Ecosystem for e-Sports Engagement**
 **Frontend Developer | BAP IT (2022)**
 
-- Built frontend for NFT-based betting system
-- Integrated **deposit / withdraw** and wallet interaction flows
-- Developed realtime game dashboard
-- Collaborated closely with backend for secure transaction handling
+- Contributed to **Libes**, a blockchain-enabled ecosystem connecting **e-sports players, teams, and fans** through digital assets
+- Built frontend interfaces for the **Libes NFT marketplace and shop**, enabling:
+  - Custom NFT issuance for creators and teams
+  - Fan engagement experiences with avatars and special digital content
+  - Player NFT workflows representing team affiliation and history
+- Developed secure **wallet integration** and **on-chain interaction flows**
+- Designed **real-time UI** for NFT exploration, ownership, and transactions
+- Collaborated with backend & smart contract developers to ensure **secure, scalable blockchain interactions**
 - **Tech stack:** React.js, Web3.js, Firebase
 
 ---
 
-### **CRM Cyberlearn**
-**Frontend Developer | Cybersoft Academy (2020 – 2021)**
 
-- Developed CRM system for:
-  - Student profile management
-  - Revenue tracking
-  - Learning content management
-- Built UI components using **React.js & Ant Design**
-- Integrated backend APIs for full CRUD workflows
-- Foundation project for professional frontend development
-
-
-## 🛠️ Tool & Language
+<h2>
+  <picture>
+    <img src="https://cdn-icons-gif.flaticon.com/15700/15700528.gif" width="45px" style="margin-right: 10px;">
+  </picture>
+  Tool & Language
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,express,firebase,postgres,mongodb,docker,git,githubactions,linux,aws,vite,webpack" />
@@ -165,17 +200,39 @@
 
 ---
 
-## 🌟 Public GitHub Projects
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="45px" style="margin-right: 10px;">
+  </picture>
+   Public GitHub Projects
+</h2>
 
-<div align="center">
 
-| Project | Description |
-| ------ | ----------- |
-| Admin CMS Starter | Scalable admin layout & patterns |
-| Realtime Demo App | Socket.IO & event-driven UI |
-| UI Component Lab | Reusable React component system |
+> Selected public projects demonstrating my experience in **system design, backend APIs, security research**, and **engineering fundamentals**.
 
-</div>
+| Project | Description | Tech / Focus |
+| ------ | ----------- | ------------ |
+| **Network Discovery Tool** | Network scanning & host discovery utilities for infrastructure visibility | Networking, Security |
+| **Threat Intelligence Platform** | Collects, analyzes, and correlates threat intelligence data | Security, Threat Analysis |
+| **CTF Platform** | Capture The Flag platform with common vulnerability challenges | Security, CTF |
+| **Web Vulnerability Scanner** | Automated scanner for common web vulnerabilities (OWASP-style) | Web Security |
+| **Web Scanner POC** | Proof-of-concept web scanner with crawling & payload injection | Security Research |
+| **Phishing Detection API** | Backend API for phishing URL detection & analysis | Security, Backend API |
+| **E-Commerce API** | Backend API for e-commerce workflows (auth, product, order) | Backend, REST API |
+| **Finwise API** | Financial data & business logic API with scalable architecture | Backend, System Design |
+
+🔗 **Repositories**
+- https://github.com/phutran1210dev/network-discovery-tool  
+- https://github.com/phutran1210dev/threat-intel  
+- https://github.com/phutran1210dev/ctf-platform  
+- https://github.com/phutran1210dev/webVuln-scanner  
+- https://github.com/phutran1210dev/web_scanner_poc  
+- https://github.com/phutran1210dev/phishing-detection-api  
+- https://github.com/phutran1210dev/e-ecom-api  
+- https://github.com/phutran1210dev/finwise-api  
+
+> _These projects complement my frontend work by strengthening my understanding of **backend systems, security risks, and system-level thinking**, enabling me to build more secure and robust user-facing applications._
+
 
 
 ## 🎨 Figma / UI Showcase
@@ -197,8 +254,14 @@
 > | Dashboard UI | Admin dashboard for SaaS product | [View on Figma](https://www.figma.com/file/xxxxx) |
 
 ---
+ 
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/438/438036.png" width="45px" style="margin-right: 10px;">
+  </picture>
+  GitHub Stats
+</h2>
 
-## 📊 GitHub Stats
 <div align="center">
   <img
     width="95%"
