@@ -48,7 +48,6 @@
 
 ---
 
-
 <h2>
   <picture>
     <img src="https://cdn-icons-png.flaticon.com/512/3220/3220417.png" width="45px" style="margin-right: 10px;">
@@ -56,18 +55,23 @@
    About Me
 </h2>
 
-- 💼 5+ years building **scalable web & mobile apps** with **React / Next.js / React Native / TypeScript**
-- 🎯 Focused on **modern UI/UX**, **performance optimization**, **realtime systems**
-- 🧰 Skilled with **CI/CD, Docker**, and tooling: **Vite, Webpack, Storybook**
-- 🌐 Integrated with **Firebase, REST APIs, Socket.IO**, SEO & accessibility best practices
-- 💡 Agile workflows, code review, cross-functional collaboration
-- 👨‍💻 Freelancing since 2021: delivered projects for startups & international clients
+-  6+ years building **scalable web & mobile apps** with **React / Next.js / React Native / TypeScript**
+-  Focused on **modern UI/UX**, **performance optimization**, **realtime systems**
+-  Skilled with **CI/CD, Docker**, and tooling: **Vite, Webpack, Storybook**
+-  Integrated with **Firebase, REST APIs, Socket.IO**, SEO & accessibility best practices
+-  Agile workflows, code review, cross-functional collaboration
+-  Freelancing since 2021: delivered projects for startups & international clients
 
-## 🚀 Open to Selective Opportunities
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/18147/18147973.png" width="45px" style="margin-right: 10px;">
+  </picture>
+   Open to Selective Opportunities
+</h2>
 
-- 💼 Frontend / Full-stack (React, Next.js, React Native)
-- 🌍 Remote / Hybrid / International teams
-- 🧩 Product-driven & high-impact systems
+-  Frontend / Full-stack (React, Next.js, React Native)
+-  Remote / Hybrid / International teams
+-  Product-driven & high-impact systems
 📫 Feel free to reach out via **LinkedIn** or **Email**.
 
 **Currently at**
@@ -79,7 +83,12 @@
 - BAP IT (03/2021 – 12/2023)
 - Cybersoft Academy (2020 – 2021)
 
-## 🧩 Code Philosophy
+<h2>
+  <picture>
+    <img src="https://cdn-icons-png.flaticon.com/512/4576/4576683.png" width="45px" style="margin-right: 10px;">
+  </picture>
+   Code Philosophy
+</h2>
 
 - Write code for **humans first**, machines second
 - Prefer **clarity over cleverness**
@@ -189,7 +198,7 @@
 
 <h2>
   <picture>
-    <img src="https://cdn-icons-gif.flaticon.com/15700/15700528.gif" width="45px" style="margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/807/807262.png" width="45px" style="margin-right: 10px;">
   </picture>
   Tool & Language
 </h2>
