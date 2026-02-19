@@ -143,26 +143,6 @@
 
 > _These projects complement my frontend work by strengthening my understanding of **backend systems, security risks, and system-level thinking**, enabling me to build more secure and robust user-facing applications._
 
-
-
-## 🎨 Figma / UI Showcase
-
-<div align="center">
-
-| Design | Description | Link |
-| ----- | ----------- | ---- |
-| _(Coming soon)_ | Design system & UI components (Web / Admin) | 🔗 Figma |
-| _(Coming soon)_ | Dashboard / CMS layout explorations | 🔗 Figma |
-| _(Coming soon)_ | Landing page & marketing UI concepts | 🔗 Figma |
-| _(Coming soon)_ | Mobile app UI (React Native mindset) | 🔗 Figma |
-
-</div>
-
-> _Designs focus on **real-world products**, **developer-friendly handoff**, and **scalable UI systems**._  
-> _Each file reflects how I think as both a **designer & engineer**._
-> 
-> | Dashboard UI | Admin dashboard for SaaS product | [View on Figma](https://www.figma.com/file/xxxxx) |
-
 ---
  
 <h2>
